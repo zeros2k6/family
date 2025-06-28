@@ -1,0 +1,6 @@
+h1 {
+  color: rgb(28, 28, 179);
+}
+h2 {
+  color: color-mix(in srgb, color percentage, color percentage);
+}
